@@ -14,6 +14,7 @@ open class BaseActivity :AppCompatActivity(){
 
     override fun onDestroy() {
         super.onDestroy()
+        //当activity销毁会被移除
         ActivityCollector.removeActivity(this)
     }
 }
