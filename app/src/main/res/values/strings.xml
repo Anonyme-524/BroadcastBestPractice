@@ -4,4 +4,5 @@
     <string name="add_user">用户注册</string>
     <string name="login_user">请输入QQ号码</string>
     <string name="login_pwd">请输入密码</string>
+    <string name="ForcsButton">强制下线</string>
 </resources>
